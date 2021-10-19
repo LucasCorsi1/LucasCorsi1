@@ -1,16 +1,20 @@
-### Hi there 👋
+<h4 align="center">
+ 
 
-<!--
-**LucasCorsi1/LucasCorsi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/lucascorsi1)]()
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucascorsi1)](https://www.linkedin.com/in/lucas-corsi1)
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+ <br>
+Olá, eu sou o Lucas!
+<br>
+ Desenvolvedor Backend   <br>
+</h3>
+
+<br>
+
+![A GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascorsi1&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascorsi1&layout=compact&theme=tokyonight)](https://github.com/lucascorsi1)
